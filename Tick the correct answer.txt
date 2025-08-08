@@ -1,0 +1,39 @@
+Tick the correct answer:
+ 
+1. The statement n+=4 is equivalent to
+ 
+a) ++n                                                       b) n=n+4                          c) n+1                            d)none
+ 
+2. What will be the output of a & b in the following, if    int a,b;a=10;b=a++;
+ 
+a) 10,10                            b)10,11                             c)11,10                          d) 11,11
+ 
+3. What will be the output of a++ when int a= -1;
+ 
+a) 1                                    b) -1                                  c) 0                               d) none
+ 
+4. If int a=25, b=5,c=0; what value is stored in c? when c=a%b;
+ 
+a)5.                                    b)  5                                  c)   0                              d) none
+ 
+5. What is the result of the following in Java statement?
+ 
+When int m=8; m*=8; System.out.println(“The output=”+m);
+ 
+a)8                                      b) 64                                c) 16                              d) 88
+ 
+6. double c; int x,y,z; x=5; y=10; z=11;
+ 
+c= x*y +z / 2;
+ 
+The value stored in c is :
+ 
+a) 55.0                                b) 55.5                              c)  55                            d) none
+ 
+7. int m,p; m=5; p=0; p=m – –  +  – – m; The output will be
+ 
+a) 11                                   b) 10                                 c) 8                               d) 12
+ 
+8. int a=7, p=0, q=0 ; p=++a  +  – -a;  q – = p; The output of q will be :
+ 
+a) 13                                   b)  14                                c)  15                            d) -15
