@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AutomationSuite" verbose="1" parallel="false">
+
+    <!-- ================= -->
+    <!-- AddToCart Test     -->
+    <!-- ================= -->
+    <test name="DemoblazeCartTest">
+        <classes>
+            <class name="LabSession18Aug.AddToCart"/>
+        </classes>
+    </test>
+
+    <!-- ================= -->
+    <!-- Wipro Dependency Test -->
+    <!-- ================= -->
+    <test name="DependencyTest">
+        <classes>
+            <class name="com.wipro.TestNGDependencyCase"/>
+        </classes>
+    </test>
+
+    <!-- ================= -->
+    <!-- Wipro Group Test   -->
+    <!-- ================= -->
+    <test name="GroupTest">
+        <groups>
+            <!-- Run only Sanity group -->
+            <run>
+                <include name="Sanity"/>
+                <!-- <exclude name="Regression"/>   Uncomment to skip regression -->
+            </run>
+        </groups>
+        <classes>
+            <class name="com.wipro.TestNGGroupcase"/>
+        </classes>
+    </test>
+
+    <!-- ================= -->
+    <!-- Skip Test Cases Example -->
+    <!-- ================= -->
+    <test name="SkipTest">
+        <classes>
+            <class name="com.wipro.TsetNgSkipTestCases"/>
+        </classes>
+    </test>
+
+</suite>

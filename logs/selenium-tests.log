@@ -1,0 +1,18 @@
+2025-08-20 10:51:37 [main] INFO  TestNGTestCases - Invoking the browser
+2025-08-20 10:51:37 [main] INFO  TestNGTestCases - Entering the username
+2025-08-20 10:51:39 [main] INFO  TestNGTestCases - Entering the password
+2025-08-20 10:51:41 [main] INFO  TestNGTestCases - Clicked login button
+2025-08-20 10:51:43 [main] INFO  TestNGTestCases - Browser closed
+2025-08-20 10:51:49 [main] INFO  TestNGTestCases - Invoking the browser
+2025-08-20 10:58:59 [main] INFO  TestNGTestCases - Invoking the browser
+2025-08-20 10:59:06 [main] INFO  TestNGTestCases - Invoking the browser
+2025-08-20 10:59:06 [main] INFO  TestNGTestCases - Entering the username
+2025-08-20 10:59:09 [main] INFO  TestNGTestCases - Entering the password
+2025-08-20 10:59:11 [main] INFO  TestNGTestCases - Clicked login button
+2025-08-20 10:59:13 [main] INFO  TestNGTestCases - Browser closed
+2025-08-20 11:04:02 [main] INFO  TestNGTestCases - Invoking the browser
+2025-08-20 11:04:09 [main] INFO  TestNGTestCases - Invoking the browser
+2025-08-20 11:04:09 [main] INFO  TestNGTestCases - Entering the username
+2025-08-20 11:04:11 [main] INFO  TestNGTestCases - Entering the password
+2025-08-20 11:04:13 [main] INFO  TestNGTestCases - Clicked login button
+2025-08-20 11:04:17 [main] INFO  TestNGTestCases - Browser closed
